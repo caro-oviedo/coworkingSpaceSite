@@ -109,6 +109,7 @@ button {
 
 /* Carousel */
 .carousel{
+    display: flex;
     max-width: 600px;
     position: relative;
     line-height: 0;
@@ -151,7 +152,7 @@ button {
 }
 
 .carousel .carousel-item-visible{
-    display:block;
+    display:flex;
     animation: fadeVisibility 0.5s;
 }
 
