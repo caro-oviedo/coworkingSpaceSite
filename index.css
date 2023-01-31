@@ -140,9 +140,9 @@ button {
 .carousel .carousel-item .caption p{
     color: whitesmoke;
     text-align: center;
-    font-weight: 700;
-    margin: 0 auto;
-    
+    font-weight: 800;
+    margin: 0 auto;;
+    text-shadow: 2px 2px 2px black, 0 0 2em gray, 0 0 0.1em black;
 }
 
 .carousel .carousel-item img{
