@@ -1,6 +1,6 @@
 # coworkingSpaceSite
 
-Initial Project from Scrimba. 
+Variation Project from Scrimba. 
 
 Educational Purposes. 
 
